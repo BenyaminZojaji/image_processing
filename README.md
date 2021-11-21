@@ -30,7 +30,7 @@
 - Design letter B using **numpy** and **open-cv**.
 - view:
   > ![result_7](https://user-images.githubusercontent.com/77120507/139590558-05787f52-7c96-4669-ad1a-4a1050380378.png)
-
+---
 ## Assignment 22
 #### Find secret by subtract
 - find secret with subtracking 2 images.
@@ -60,7 +60,8 @@
 - Add some image noises to Chess image.
 - view:
   > ![result_7](https://user-images.githubusercontent.com/77120507/140571565-5329e838-dfce-4aa0-8685-62070ecd5cd2.jpg)
-
+---
+## Assignment 23
 #### Face recognition
 - Real-time camera that can put stickers on face.
 - written in **Python** using **opencv** and **numpy** (and win10toast library for notifications).
@@ -80,7 +81,8 @@
   > ![checkered](https://user-images.githubusercontent.com/77120507/141615109-45cf11e1-3eb0-448a-aec9-3d86d55cc897.png)
 - flip horizontal effect:
   > ![flip_h](https://user-images.githubusercontent.com/77120507/141615105-301fb1ae-b3f3-4b51-8ec9-c320814e64b6.png)
-
+---
+## Assignment 24
 #### Lips and Eyes effect v.1
 - make target's lips and eyes bigger than real.
 - written in **python** using **opencv**, **numpy**, **tensorflow**.
@@ -89,3 +91,4 @@
   
     > https://user-images.githubusercontent.com/77120507/142758304-74cfec5f-f8be-4a80-b685-2c4fbbd7ed83.mp4
   </details>
+---
