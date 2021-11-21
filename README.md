@@ -81,4 +81,11 @@
 - flip horizontal effect:
   > ![flip_h](https://user-images.githubusercontent.com/77120507/141615105-301fb1ae-b3f3-4b51-8ec9-c320814e64b6.png)
 
-
+#### Lips and Eyes effect v.1
+- make target's lips and eyes bigger than real.
+- written in **python** using **opencv**, **numpy**, **tensorflow**.
+  <details>
+    <summary>output</summary>
+  
+    > https://user-images.githubusercontent.com/77120507/142758304-74cfec5f-f8be-4a80-b685-2c4fbbd7ed83.mp4
+  </details>
