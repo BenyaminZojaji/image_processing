@@ -20,5 +20,5 @@
 
 ## 3 Shades Of Gray
 - Diagnosis black-white-gray color on gray frame.
-  - https://user-images.githubusercontent.com/77120507/143675823-fb1b8a25-1644-42d1-a994-b85c3b653d69.MP4
+  > https://user-images.githubusercontent.com/77120507/143675823-fb1b8a25-1644-42d1-a994-b85c3b653d69.MP4
 
