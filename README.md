@@ -146,6 +146,9 @@
 - 3 ways for contrast adjustment.
 > ![result_3_c0](https://user-images.githubusercontent.com/77120507/144235228-563aaa25-d075-41d1-a030-f17fa13f8c4a.jpg)
 ![result_3_c100](https://user-images.githubusercontent.com/77120507/144235235-9e2a3455-9d66-4306-93ba-6d2faed3abb1.jpg)
+<br></br>
+> ![result_3-0_c0](https://user-images.githubusercontent.com/77120507/144240701-5249731f-e035-4dbd-9247-49114fecccf2.jpg)
+![result_3-0_c100](https://user-images.githubusercontent.com/77120507/144240709-c11d4956-efaa-43ef-a2f0-cc3715b49aa2.jpg)
 #### Sudoku Filled Square Detection
 - Find filled squares in sudoku.
   - [x] 1- Find sudoku in image.
