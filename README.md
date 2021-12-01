@@ -144,7 +144,8 @@
 
 #### Increase Contrast Methods
 - 3 ways for contrast adjustment.
-
+> ![result_3_c0](https://user-images.githubusercontent.com/77120507/144235228-563aaa25-d075-41d1-a030-f17fa13f8c4a.jpg)
+![result_3_c100](https://user-images.githubusercontent.com/77120507/144235235-9e2a3455-9d66-4306-93ba-6d2faed3abb1.jpg)
 #### Sudoku Filled Square Detection
 - Find filled squares in sudoku.
   - [x] 1- Find sudoku in image.
