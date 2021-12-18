@@ -37,4 +37,3 @@
 ![closedice3](https://user-images.githubusercontent.com/77120507/146638384-f7f6e01f-34a9-41db-9bb8-025c6882e94f.png)
 ![detecteddice3](https://user-images.githubusercontent.com/77120507/146638385-ef04ff82-9356-4792-a278-c66619f93c82.png)
 ![completedetecteddice3](https://user-images.githubusercontent.com/77120507/146640535-da804477-d565-4621-aa77-c39747f552a6.png)
-
