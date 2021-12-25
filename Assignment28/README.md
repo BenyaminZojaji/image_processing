@@ -1,7 +1,7 @@
 ## Sudoku Detector
 - Detect sudoku and transform to flat image using *imutils.perspective*
 ```shell
-usage: sudoku_detector.py [-h] [--input INPUT] [--output OUTPUT] [--kernel_size KERNEL_SIZE] [--color COLOR] [----draw DRAW]
+usage: sudoku_detector.py [-h] [--input INPUT] [--output OUTPUT] [--kernel_size KERNEL_SIZE] [--color COLOR] [--draw DRAW]
 ```
 > ![sudoku1](https://user-images.githubusercontent.com/77120507/147381444-cf6eb410-d7d6-44d6-9fcf-0d518dc5f06b.jpg)
 ![sudoku1-o](https://user-images.githubusercontent.com/77120507/147381466-572b362c-f41a-4de5-a482-b7bb38157623.png)
