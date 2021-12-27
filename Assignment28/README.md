@@ -24,5 +24,4 @@ usage: live_sudoku_detector.py [-h] [--input INPUT] [--output OUTPUT] [--kernel_
   </details>
 
 
-
 [^1]: using webcam
