@@ -7,7 +7,7 @@ usage: sudoku_detector.py [-h] [--input INPUT] [--output OUTPUT] [--kernel_size 
 ![sudoku1-o](https://user-images.githubusercontent.com/77120507/147381466-572b362c-f41a-4de5-a482-b7bb38157623.png)
 
 
-## Live Sudoku Detector
+## Live Sudoku Detector [^1]
 - Real-time Sudoku detector
 ```shell
 usage: live_sudoku_detector.py [-h] [--input INPUT] [--output OUTPUT] [--kernel_size KERNEL_SIZE] [--color COLOR]
@@ -22,3 +22,7 @@ usage: live_sudoku_detector.py [-h] [--input INPUT] [--output OUTPUT] [--kernel_
 
     > https://user-images.githubusercontent.com/77120507/147506691-b5151bee-26e0-48a3-b55b-af4b1410f29e.MP4
   </details>
+
+
+
+[^1]: using webcam
