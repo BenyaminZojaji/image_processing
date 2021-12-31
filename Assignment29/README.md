@@ -1,5 +1,9 @@
 ## Color Picker
 - Simple RGB color picker written in python using **pyside6**.
+> ![1](https://user-images.githubusercontent.com/77120507/147837677-588b6ca0-cfb2-4125-8a20-9db309bb2700.jpg)
+![2](https://user-images.githubusercontent.com/77120507/147837680-5d23293c-1bad-4cea-8caf-09a4288cc611.jpg)
+![3](https://user-images.githubusercontent.com/77120507/147837704-f776d146-3fe8-4ee8-8faf-30cf5f729bd0.jpg)
+![4](https://user-images.githubusercontent.com/77120507/147837706-1c98dbeb-ad9a-491a-9151-c3b0c7f2d77c.jpg)
 
 ## Microsoft Logo
 - Microsoft logo design using **opencv** and **Numpy** library.
