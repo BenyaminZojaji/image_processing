@@ -12,11 +12,9 @@
 ## Webcam Color Detection
 - Real-time webcam color detection using **opencv**, **Numpy**.
 - colors: white, black, gray, red, green, blue, cyan, magenta, yellow
-  <details>
-    <summary>output (click to show)</summary>
-
-    > !!
-  </details>
+> ![white](https://user-images.githubusercontent.com/77120507/147850115-b905efa3-ef5e-43f6-8ace-eed936d91f16.jpg)
+![black](https://user-images.githubusercontent.com/77120507/147850120-0df2e6a8-0a0d-409d-b605-f26060be2922.jpg)
+![blue](https://user-images.githubusercontent.com/77120507/147850122-13f93da3-852e-48fc-a6b1-31f4502bb535.jpg)
 
 ## rubik
 - fix rubik's colors.
