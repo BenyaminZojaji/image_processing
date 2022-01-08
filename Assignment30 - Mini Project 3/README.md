@@ -1,1 +1,20 @@
-
+## Employee Management
+- GUI Employee Manager written in **python** using **sqlite**, **opencv**, **PySide6**, **Numpy**, **hashlib**.
+- Admin Login:
+  - Secure Admin Login profile with *sha-256* encoding.
+  - picpic
+- Employee List:
+  - Add, Edit or Delete Employees using GUI.
+  - picpic
+- Add Employee:
+  - Simply add employees with firstName LastName nationalCode and their birthday.
+  - picpic
+- Camera:
+  - Instantly take a picture for employee's avatar.
+  - picpic
+- Filter:
+  - 9 filter for employee's avatar.
+  - picpic 
+- Edit Employee:
+  - Edit employee profile with GUI.
+  - picpic
