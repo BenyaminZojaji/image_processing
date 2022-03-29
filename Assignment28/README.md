@@ -15,7 +15,7 @@ usage: live_sudoku_detector.py [-h] [--input INPUT] [--output OUTPUT] [--kernel_
 > ![live-sudoku](https://user-images.githubusercontent.com/77120507/147381536-440ae83b-0e84-44e1-ad23-d4f2db161e53.png)
 ![live-sudoku-o](https://user-images.githubusercontent.com/77120507/147381540-efa16a6c-936d-4c84-b6a3-431e64b8ab4a.png)
 
-## Time Warp Scan[^2]
+## Timewarp Scan[^2]
 - Time warp scan filter in Tik Tok written in python using **opencv** and **numpy** library.
   <details>
     <summary>output (click to show)</summary>
